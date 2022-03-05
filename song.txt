@@ -16,6 +16,7 @@ Love me like you do, lo-lo-love me like you do
 Touch me like you do, to-to-touch me like you do
 What are you waiting for?
 <<<<<<< HEAD
+<<<<<<< HEAD
 ###############################################################
 Fading in, fading out
 On the edge of paradise
@@ -43,6 +44,8 @@ Lo-lo-love me like you do
 Touch me like you do, to-to-touch me like you do, oh
 What are you, what are you waiting for?
 =======
+=======
+>>>>>>> 3e54d7fa458e52cd04ff1e47906992a794cd310b
 
 
 #################################################
@@ -52,4 +55,7 @@ So love me like you do, lo-lo-love me like you do
 Love me like you do, lo-lo-love me like you do
 Touch me like you do, to-to-touch me like you do
 What are you waiting for?
+<<<<<<< HEAD
+>>>>>>> 3e54d7fa458e52cd04ff1e47906992a794cd310b
+=======
 >>>>>>> 3e54d7fa458e52cd04ff1e47906992a794cd310b
